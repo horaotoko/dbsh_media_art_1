@@ -82,5 +82,11 @@ void keyPressed(){
       g = 0;
       b = 255;
       break;
+      
+    case 'w' :
+      r = 255;
+      g = 255;
+      b = 255;
+      break;
   }
 }
